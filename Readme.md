@@ -1,7 +1,6 @@
-
 # noop-logger
 
-  A logger that does exactly nothing, useful when you want to test modules that require a logged to be passed in.
+  A logger that does exactly nothing, useful when you want to test modules that require a logger to be passed in.
 
 ## Installation
 
