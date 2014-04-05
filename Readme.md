@@ -12,9 +12,12 @@
 
   - `logger.debug`
   - `logger.info`
-  - `logger.notice`
   - `logger.warn`
   - `logger.error`
+  - `logger.critical`
+  - `logger.alert`
+  - `logger.emergency`
+  - `logger.notice`
   - `logger.fatal`
 
 ## License
