@@ -12,6 +12,7 @@ describe('noop-logger', function(){
     assert.equal('function', typeof logger.alert);
     assert.equal('function', typeof logger.emergency);
     assert.equal('function', typeof logger.notice);
+    assert.equal('function', typeof logger.verbose);
     assert.equal('function', typeof logger.fatal);
   });
 });
