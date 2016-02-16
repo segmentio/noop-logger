@@ -6,6 +6,9 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "devDependencies": {
     "mocha": "1.x"
   }
